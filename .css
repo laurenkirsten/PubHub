@@ -1,0 +1,16 @@
+display: none;
+    border: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+    position: absolute;
+    width: 22px;
+    height: 21px;
+    background: transparent;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAqCAYAAAC3DKvtAAAKQWlDQ…X0PsX085eAF/t2AddaJabK1n1f6MtSWTewTTF1C9Q+Mf0Dr5La8nEMaWAAAAAASUVORK5CYII=);
+}
+
+zsg-core.css:55
+*, :after, :before {
+    box-sizing: border-box;
